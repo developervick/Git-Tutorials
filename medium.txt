@@ -1,0 +1,2 @@
+So there is a concept of branches to perform all these actions without affecting existing working.
+When we are sure that our new code is ready to deploy we merge it to parent branch or main branch.
